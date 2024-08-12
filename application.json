@@ -6,6 +6,7 @@
     },
     "navigationSetting": {},
     "themeSetting": {
+      "appMaxWidth": "LARGE",
       "density": 1.0,
       "sizing": 1.0
     }
@@ -27,6 +28,7 @@
     },
     "navigationSetting": {},
     "themeSetting": {
+      "appMaxWidth": "LARGE",
       "density": 1.0,
       "sizing": 1.0
     }
